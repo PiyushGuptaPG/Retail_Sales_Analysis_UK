@@ -87,4 +87,7 @@ This project focuses on analyzing **retail sales data** to uncover insights into
 
 ---
 
-## 📂 Repository Structure
+## Business Impact
+
+This project demonstrates how data-driven retail analysis can uncover key performance trends, improve decision-making, and identify areas to boost profitability.
+
